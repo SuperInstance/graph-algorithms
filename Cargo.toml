@@ -1,0 +1,12 @@
+[package]
+name = "graph-algorithms"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "Graph algorithms in Rust — connectivity, flows, shortest paths, spanning trees, spectral methods"
+repository = "https://github.com/SuperInstance/graph-algorithms"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+nalgebra = "0.33"
+rand = "0.9"
