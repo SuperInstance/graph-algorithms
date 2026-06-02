@@ -8,7 +8,7 @@ A complete toolkit for working with graphs: constructing directed and undirected
 
 ```toml
 [dependencies]
-graph-algorithms = "0.1"
+graph-algo-rs = "0.1"
 ```
 
 ## Quick Start
